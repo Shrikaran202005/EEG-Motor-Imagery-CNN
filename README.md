@@ -95,7 +95,7 @@ Real-time control systems
 
 📜 License
 
-This project is released under the MIT License.
+This project is released under the NIT License.
 
 👤 Author
 
