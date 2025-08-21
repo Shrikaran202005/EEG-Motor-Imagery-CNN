@@ -31,7 +31,7 @@ Spectrogram Augmentation (time & frequency masking)
 
 Lazy Dataset Loading for large EEG files
 
-Datasets:
+Datasets:https://www.bbci.de/competition/iv/
 
 BCI Competition IV – Dataset 2a (4-class: left, right, foot, tongue)
 
