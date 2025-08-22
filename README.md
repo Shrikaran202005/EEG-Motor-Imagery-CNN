@@ -54,7 +54,7 @@ Dataset 2b → ~97–99% accuracy
 
 🚀 Getting Started
 1. Clone Repository
-git clone https://github.com/your-username/EEG-Motor-Imagery-Classification.git
+git clone https://github.com/Shrikaran202005/EEG-Motor-Imagery-CNN.git
 cd EEG-Motor-Imagery-Classification
 
 2. Install Dependencies
